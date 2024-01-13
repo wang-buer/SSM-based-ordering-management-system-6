@@ -1,10 +1,10 @@
-# 基于SSM的订餐管理系统
+# 基于SSM的订餐管理系统6
 
 ## 获取方式
 
-扫描下方，回复关键词：  **订餐6**
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,46 +35,38 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847442.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206111847442.jpg)
 
 ### 4.2用户 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111848287.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206111848287.jpg)
 
-![按照条件查询订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111848137.jpg)
+![按照条件查询订单](https://www.codeshop.fun/Typora-Images/202206111848137.jpg)
 
-![查看所有订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111848489.jpg)
+![查看所有订单](https://www.codeshop.fun/Typora-Images/202206111848489.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111848631.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/202206111848631.jpg)
 
 用户可以按照菜品名称和销售日期查询订单信息，还可以查看所有订单、未派送的订单、已派送的订单等
 
 ### 4.3 管理员模块
 
-![管理员-菜品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847475.jpg)
+![管理员-菜品管理](https://www.codeshop.fun/Typora-Images/202206111847475.jpg)
 
-![管理员-添加菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847355.jpg)
+![管理员-添加菜品](https://www.codeshop.fun/Typora-Images/202206111847355.jpg)
 
-![管理员-类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847312.jpg)
+![管理员-类别管理](https://www.codeshop.fun/Typora-Images/202206111847312.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847001.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202206111847001.jpg)
 
-![管理员-订单查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847289.jpg)
+![管理员-订单查询](https://www.codeshop.fun/Typora-Images/202206111847289.jpg)
 
-![管理员-销售订单列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847788.jpg)
+![管理员-销售订单列表](https://www.codeshop.fun/Typora-Images/202206111847788.jpg)
 
-![管理员-本日销售额统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206111847107.jpg)
+![管理员-本日销售额统计](https://www.codeshop.fun/Typora-Images/202206111847107.jpg)
 
 - 菜品管理：管理员可以增加、删除和修改菜品信息
 - 订单管理：管理员可以按照菜品名称和销售日期查询订单信息，还可以查看所有订单和本日销售额统计信息
 - 公告管理：管理员可以增加、删除和修改公告信息
 - 类别管理：管理员可以增加、删除和修改类别信息
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**订餐6**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
